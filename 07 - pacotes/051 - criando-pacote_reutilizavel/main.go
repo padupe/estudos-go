@@ -2,6 +2,8 @@ package main
 
 // Comando rodado no terminal para instalar o pacote: $ go get -u github.com/padupe/calculo-area
 
+// ATENÇÃO: É importante instalar pacotes de fontes confiáveis e que garantam a continuidade dos mesmoa
+
 import (
 	"fmt"
 
