@@ -1,6 +1,7 @@
 /*
-1) CRIE UM NOVO PROJETO
+1) Crie um Novo Projete/Repositório
 2) Rode o comando: $ go mod init {github.com/seu-usuario/repositorio-em-go}
+3) No Projeto que queria instalar seu pacote, rode o comando: $ go get -u {github.com/seu-usuario/repositorio-em-go}
 */
 
 package area
