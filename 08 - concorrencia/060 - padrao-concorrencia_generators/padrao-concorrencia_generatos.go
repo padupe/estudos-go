@@ -35,3 +35,5 @@ func main() {
 	fmt.Println("Primeiros colocados:", <-titulo1, "|", <-titulo2)
 	fmt.Println("Segundos colocados:", <-titulo1, "|", <-titulo2)
 }
+
+// REPO PROF CURSO: https://github.com/cod3rcursos/curso-go/blob/master/concorrencia/generator/generator.go
