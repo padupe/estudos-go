@@ -2,3 +2,5 @@ github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfC
 github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
 github.com/padupe/calculo-area v0.0.0-20211129002329-f108477613b7 h1:Qhpb1CMznC5a44zJsbOow9cE794VgdtssV7qHfHfszA=
 github.com/padupe/calculo-area v0.0.0-20211129002329-f108477613b7/go.mod h1:ePLflXgRKVXxnU81Pza2a2Xw5y17qRMHPr2aXZUcIoE=
+github.com/padupe/titulos-go v0.0.0-20211130214424-9b8809072927 h1:nh/pgh2a99gyXqSzCjq0TCGDiEXjerL63WGLcNoFxQg=
+github.com/padupe/titulos-go v0.0.0-20211130214424-9b8809072927/go.mod h1:x6ylxXaeWgNZ92LLWGAAR5ppxeJEuLrc5XrmXI384Ho=
