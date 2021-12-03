@@ -45,5 +45,3 @@ func main() {
 	fmt.Println(<-channel3, <-channel3)
 	fmt.Println(<-channel3, <-channel3)
 }
-
-//git commit -m $'feat(08 - concorrencia/063 - multiplexador_com_select): Adicionado ao Projeto.\nAula 83 - Curso Go (Golang): Explorando a linguagem do Google.\nModulo 08 Finalizado.'
