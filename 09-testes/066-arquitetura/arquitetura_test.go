@@ -1,5 +1,7 @@
 package arquitetura
 
+// Arquitetura de Testes
+
 import (
 	"runtime"
 	"testing"
