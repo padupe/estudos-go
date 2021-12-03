@@ -33,3 +33,8 @@ func TestIndex(t *testing.T) {
 		}
 	}
 }
+
+// Comando para rodar os Testes via Terminal:
+// $ go test       -> Este comando roda os testes no diretório em que se encontra
+// $ go test ./... -> Este comando roda todos os testes, independente do diretório
+// $ go test -v    -> Este comando roda os testes no modo "verboso"
