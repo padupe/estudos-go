@@ -27,4 +27,7 @@ func main() {
 
 		$ cd 11\ -\ http/074\ -\ conteudo_dinamico/
 		$ go run conteudo_dinamico.go
+
+		No navegador, acesse:
+		https://localhost:3000/horacerta
 */
