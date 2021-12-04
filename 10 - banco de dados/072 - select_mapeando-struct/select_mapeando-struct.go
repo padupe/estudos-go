@@ -20,6 +20,7 @@ func main() {
 	}
 	defer db.Close()
 
+	// Precisamos definir a Query a ser executada
 	rows, _ := db.Query("select id, nome from usuarios where id < ?", 3)
 	defer rows.Close()
 
