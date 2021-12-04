@@ -30,5 +30,3 @@ func main() {
 		fmt.Println(user)
 	}
 }
-
-// git commit -m $'feat(10 - banco de dados/072 - select_mapeando-struct): Adicionado ao Projeto.\nAula 93 - Curso Go (Golang): Explorando a linguagem do Google.'
